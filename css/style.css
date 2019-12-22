@@ -8611,7 +8611,8 @@ h1, h2, h3, h4, h5,
       font-size: 24px;
       font-weight: 300;
       color: #fc983c;
-      line-height: 1.1; }
+      line-height: 1.1; 
+      font-family: sans-serif;}
     .car-wrap .price-wrap .from-day {
       margin-bottom: 0;
       padding-left: 10px; }
