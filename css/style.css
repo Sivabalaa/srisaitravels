@@ -8830,7 +8830,8 @@ h1, h2, h3, h4, h5,
           position: absolute;
           top: 0;
           left: -10px;
-          font-size: 14px; }
+          font-size: 14px; 
+          font-family: Arial;}
         .table tbody tr td.price h3 span.num {
           color: #fc983c;
           font-size: 20px;
